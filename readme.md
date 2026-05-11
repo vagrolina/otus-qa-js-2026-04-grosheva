@@ -5,3 +5,7 @@
 - OPTION 1
 - OPTION 2
 - OPTION 3
+
+## FEATURE 2
+
+Lorem ipsum...
