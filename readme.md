@@ -9,3 +9,6 @@
 ## FEATURE 2
 
 Lorem ipsum...
+
+## FEATURE 3
+Just feature...
